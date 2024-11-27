@@ -55,6 +55,8 @@
 ![Static Badge](https://img.shields.io/badge/Redux-%20BISCOTTI%20)
 ![Static Badge](https://img.shields.io/badge/seaborn-%20green)
 ![Static Badge](https://img.shields.io/badge/AOS-%20black)
+![Static Badge](https://img.shields.io/badge/API-%20indigo)
+
 
 
 
