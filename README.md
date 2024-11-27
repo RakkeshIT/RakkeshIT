@@ -62,8 +62,7 @@
 
 
 ###
-
-
+![snake gif](https://github.com/RakkeshIT/RakkeshIT/blob/output/github-contribution-grid-snake.gif)
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
