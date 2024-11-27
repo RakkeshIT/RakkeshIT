@@ -52,6 +52,8 @@
 ![Static Badge](https://img.shields.io/badge/Numpy-%20indigo)
 ![Static Badge](https://img.shields.io/badge/Pandas-%20indigo)
 ![Static Badge](https://img.shields.io/badge/MatplotLib%20-%20red)
+![Static Badge](https://img.shields.io/badge/Redux-%20BISCOTTI%20)
+
 
 
 ###
