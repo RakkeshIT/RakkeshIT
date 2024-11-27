@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
