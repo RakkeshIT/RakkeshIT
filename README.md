@@ -28,7 +28,7 @@
 ###
 
 <p align="left"> <b>Name: </b> Rakkesh Kumar J<br><br>
-<b>Skill: </b> Full Stack Developer <br><br><a href='https://www.linkedin.com/in/rakkesh444/'><img width="25" height="25" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a><a href='https://github.com/RakkeshIT'><img width="26" height="26" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/></a></p>
+<b>Skill: </b> Full Stack Developer <br><br><a href='https://www.linkedin.com/in/rakkesh444/'><img width="25" height="25" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" title="LinkedIn"/></a><a href='https://github.com/RakkeshIT'><img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/></a></p>
 
 ###
 
