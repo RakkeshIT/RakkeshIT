@@ -28,7 +28,7 @@
 ###
 
 <p align="left"> <b>Name: </b> Rakkesh Kumar J<br><br>
-<b>Skill: </b> Full Stack Developer <br><br> <b><img width="20" height="20" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></b></p>
+<b>Skill: </b> Full Stack Developer <br><br> <b> Links: </b><a href='https://www.linkedin.com/in/rakkesh444/'>LinkedIn <img width="25" height="25" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a></p>
 
 ###
 
