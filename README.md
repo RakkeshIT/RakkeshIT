@@ -38,6 +38,9 @@
 
 [![Static Badge](https://img.shields.io/badge/React%20-%20red)]([https://www.linkedin.com/in/rakkesh444/](https://github.com/RakkeshIT/React-Project))
 [![Static Badge](https://img.shields.io/badge/Laravel%20-%20indigo)](https://github.com/RakkeshIT/Internship/tree/main/Laraval-2/projectA1)
+[![Static Badge](https://img.shields.io/badge/HTML-%20blue)](https://github.com/RakkeshIT/Internship/blob/main/btWebsite/MainPage/index.html)
+[![Static Badge](https://img.shields.io/badge/css-%20yellowgreen)](https://github.com/RakkeshIT/Internship/blob/main/btWebsite/MainPage/homepage.css)
+![Static Badge](https://img.shields.io/badge/javascript-purple)
 
 ###
 
