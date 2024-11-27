@@ -27,7 +27,8 @@
 
 ###
 
-<p align="left">I'm ... Rakkesh Kumar ....<br><br>- 🔭 Full Stack Developer</p>
+<p align="left"> <b>Name: </b> Rakkesh Kumar J<br><br>
+ - <b>Skill: </b> Full Stack Developer</p>
 
 ###
 
