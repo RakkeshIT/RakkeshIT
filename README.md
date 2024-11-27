@@ -88,7 +88,7 @@
 
 
 ###
-![snake gif](https://github.com/RakkeshIT/RakkeshIT/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/RakkeshIT/RakkeshIT/output/snake.svg" alt="Snake animation" />
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
