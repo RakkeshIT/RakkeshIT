@@ -36,7 +36,8 @@
 
 ###
 
-[![Static Badge](https://img.shields.io/badge/React%20-%20red)](https://www.linkedin.com/in/rakkesh444/)
+[![Static Badge](https://img.shields.io/badge/React%20-%20red)]([https://www.linkedin.com/in/rakkesh444/](https://github.com/RakkeshIT/React-Project))
+[![Static Badge](https://img.shields.io/badge/Laravel%20-%20indigo)](https://github.com/RakkeshIT/Internship/tree/main/Laraval-2/projectA1)
 
 ###
 
