@@ -41,6 +41,18 @@
 [![Static Badge](https://img.shields.io/badge/HTML-%20blue)](https://github.com/RakkeshIT/Internship/blob/main/btWebsite/MainPage/index.html)
 [![Static Badge](https://img.shields.io/badge/css-%20yellowgreen)](https://github.com/RakkeshIT/Internship/blob/main/btWebsite/MainPage/homepage.css)
 ![Static Badge](https://img.shields.io/badge/javascript-purple)
+[![Static Badge](https://img.shields.io/badge/bootstrap-indigo)](https://github.com/RakkeshIT/Internship/blob/main/btWebsite/MainPage/index.html)
+![Static Badge](https://img.shields.io/badge/Tailwind%20-%20red)
+[![Static Badge](https://img.shields.io/badge/PHP%20-%20laravel%20-%20red)](https://laravel.com/)
+[![Static Badge](https://img.shields.io/badge/laravel%20-%20Spatie%20-%20indigo)](https://github.com/RakkeshIT/Projects/blob/main/react-breez-inertia-A1/resources/js/Pages/Admin/List/RolePerList.jsx)
+![Static Badge](https://img.shields.io/badge/Inertia%20Js%20-%20indigo)
+![Static Badge](https://img.shields.io/badge/Mysql%20-%20black)
+![Static Badge](https://img.shields.io/badge/Anaconda%20-%20green)
+![Static Badge](https://img.shields.io/badge/Python-%20red)
+![Static Badge](https://img.shields.io/badge/Numpy-%20indigo)
+![Static Badge](https://img.shields.io/badge/Pandas-%20indigo)
+![Static Badge](https://img.shields.io/badge/MatplotLib%20-%20red)
+
 
 ###
 
