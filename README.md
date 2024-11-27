@@ -22,12 +22,38 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">🤵 About Me</h3>
 
 ###
 
-<p align="left"> <b>Name: </b> Rakkesh Kumar J<br><br>
-<b>Skill: </b> Full Stack Developer <br><br><a href='https://www.linkedin.com/in/rakkesh444/'><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" title="LinkedIn"/></a><a href='https://github.com/RakkeshIT'><img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/github.png" alt="github" title="GitHub"/></a></p>
+<p align="center">
+
+---
+
+👋 Hi, I'm Rakkesh Kumar, a passionate Full Stack Web Developer with a strong background in both front-end and back-end development. I specialize in creating dynamic, user-friendly web applications and have hands-on experience with the Laravel framework and React.js.
+
+🔧 **Skills:**
+- **Front-End:** HTML, CSS, JavaScript, React.js
+- **Back-End:** PHP, Laravel, Node.js
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+
+***💼 Experience:***
+
+- Full Stack Development Intern
+- Duration: 2 months
+- Technologies: PHP, Laravel, React.js
+  <br>
+***Responsibilities:***
+- Built and maintained web applications using Laravel and React.js.
+- Collaborated with a team to design and implement robust backend services.
+- Enhanced UI/UX for dynamic web interfaces.
+- Worked with databases to manage and organize data efficiently.
+
+🔍 I’m always looking to expand my skill set and take on new challenges in full-stack development. Feel free to reach out to collaborate or discuss potential projects!
+
+---
+<a href='https://www.linkedin.com/in/rakkesh444/'><img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" title="LinkedIn"/></a><a href='https://github.com/RakkeshIT'><img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/github.png" alt="github" title="GitHub"/></a></p>
 
 ###
 
