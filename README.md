@@ -36,10 +36,7 @@
 
 ###
 
-<div align="left">
- ![Static Badge](https://img.shields.io/badge/React%20-%20red)
-
-</div>
+[![Static Badge](https://img.shields.io/badge/React%20-%20red)](https://www.linkedin.com/in/rakkesh444/)
 
 ###
 
