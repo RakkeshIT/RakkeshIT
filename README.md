@@ -12,7 +12,7 @@
 </div>
 
 ###
-
+<img src="https://raw.githubusercontent.com/RakkeshIT/RakkeshIT/output/snake.svg" alt="Snake animation" />
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=RakkeshIT&label=Profile%20views&color=0e75b6&style=flat" alt="RakkeshIT" /> </p>
 </div>
