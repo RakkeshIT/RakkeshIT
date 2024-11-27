@@ -45,6 +45,7 @@
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20red)
 [![Static Badge](https://img.shields.io/badge/PHP%20-%20laravel%20-%20red)](https://laravel.com/)
 [![Static Badge](https://img.shields.io/badge/laravel%20-%20Spatie%20-%20indigo)](https://github.com/RakkeshIT/Projects/blob/main/react-breez-inertia-A1/resources/js/Pages/Admin/List/RolePerList.jsx)
+<br>
 ![Static Badge](https://img.shields.io/badge/Inertia%20Js%20-%20indigo)
 ![Static Badge](https://img.shields.io/badge/Mysql%20-%20black)
 ![Static Badge](https://img.shields.io/badge/Anaconda%20-%20green)
